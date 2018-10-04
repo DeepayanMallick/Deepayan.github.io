@@ -23,10 +23,10 @@ const Portfolio = function() {
 				text: "java",
 				weight: 9
 			}, {
-				text: "qazi",
+				text: "Node.js",
 				weight: 15
 			}, {
-				text: "newText",
+				text: "Vue.js",
 				weight: 7
 			}
 		];
